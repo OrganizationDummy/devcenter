@@ -15,11 +15,11 @@ In this section, we walk you through the code signing steps using our `android-m
 
 4. Click or drag-and-drop your keystore file on the `Upload file` field of the `ANDROID KEYSTORE FILE` section.
 
-    ![Screenshot](/img/android-code-signing/upload-file.png)
+    ![Screenshot](../img/android-code-signing/upload-file.png)
 
 5. Fill out the displayed three input fields: `keystore password`, `keystore alias` and `private key password`.
 
-    ![Screenshot](/img/android-code-signing/three-fields.png)
+    ![Screenshot](../img/android-code-signing/three-fields.png)
 
 6. Click on `Save metadata`.
 

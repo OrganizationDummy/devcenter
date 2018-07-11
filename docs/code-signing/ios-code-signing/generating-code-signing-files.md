@@ -14,12 +14,12 @@ First you have to add your Apple ID to Accounts preferences in Xcode. If you are
 2. Select Xcode > Preferences from the navigation bar.
 3. At the top of the window select `Accounts`.
 4. Click on the `+` on the lower left corner and select `Add Apple ID...`
-![Adding Apple ID](/img/code-signing/ios-code-signing/xcode_adding_account.png)
+![Adding Apple ID](../img/code-signing/ios-code-signing/xcode_adding_account.png)
 5. A dialog will appear. Add your Apple ID and your password, then select `Sign in`. If you don't have an account you can create your Apple ID by selecting `Create Apple ID`.
-![Sign in to Xcode](/img/code-signing/ios-code-signing/xcode_sign_in.png)
+![Sign in to Xcode](../img/code-signing/ios-code-signing/xcode_sign_in.png)
 6. Select your Apple ID and your team from the right side bar, then click on `View Details...`.
 7. A dialog will appear where you will see your code signing identities and the provisioning profiles.
-![Xcode team details](/img/code-signing/ios-code-signing/xcode_signing_files.png)
+![Xcode team details](../img/code-signing/ios-code-signing/xcode_signing_files.png)
 8. Under the signing identities locate the `iOS Development` and `iOS Distribution` profiles. If you have not created them you will see a `Create` button next to them. Simply select it and Xcode will issue and download your code signing identities for you.
 
 !!! warning
@@ -30,7 +30,7 @@ First you have to add your Apple ID to Accounts preferences in Xcode. If you are
 1. Open your `Keychain Access` app on macOS.
 2. Select `Keychain Access` > `Certificate Assistant` > `Request a Certificate From a Certificate Authority...`
 3. Fill in the `User's Email Address` and the `Common Name` and select `Saved to Disk`. Click on `Continue` and save the generated `certSigningRequest` file locally.
-![Certificate Assistant](/img/code-signing/ios-code-signing/certificate_assistant.png)
+![Certificate Assistant](../img/code-signing/ios-code-signing/certificate_assistant.png)
 4. Go to [https://developer.apple.com](https://developer.apple.com) and log in to your account.
 5. Select `Certificates, IDs & Profiles` from the left sidebar.
 6. Go to `Certificates` and click on the `+` button on the top right corner.
@@ -53,7 +53,7 @@ Also make sure that your app is connected to the correct Team.
 
 1. Select your project file from Xcode's project navigator
 2. Go to the `Signing` section and under the `Team` select your correct team.
-![Team selector](/img/code-signing/ios-code-signing/xcode_team_selector.png)
+![Team selector](../img/code-signing/ios-code-signing/xcode_team_selector.png)
 
 !!! note
     If you hit any issues and can't resolve it move to the manual step and set up Provisioning Profiles following the documentation.

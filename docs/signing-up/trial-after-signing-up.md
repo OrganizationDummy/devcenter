@@ -4,7 +4,7 @@ This means that you can setup your application and start building it with all th
 
 You can see the remaining time of your trial in the header.
 
-![Screenshot](/img/signing-up/14-day-trial.png)
+![Screenshot](../img/signing-up/14-day-trial.png)
 
 !!! note "Tip"
     Read more about [optimizing your build times](/tips-and-tricks/optimize-your-build-times/)

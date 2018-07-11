@@ -38,13 +38,13 @@ Since your keystore is gitignored, you have to upload your keystore to the `GENE
     !!! example
         In our example, we use `XAMARIN_KEYSTORE`.
 
-        ![Screenshot](/img/android-code-signing/generic-file-storage-xm.png)
+        ![Screenshot](../img/android-code-signing/generic-file-storage-xm.png)
 
 5. Upload your keystore file in the `Upload file field`.
 
     Your environment variable (for example, `$BITRISEIO_XAMARIN_KEYSTORE_URL`) will be automatically available with the download URL of your keystore file.
 
-    ![Screenshot](/img/android-code-signing/download-url.png)
+    ![Screenshot](../img/android-code-signing/download-url.png)
 
 6. Navigate back to your workflow.
 
@@ -54,7 +54,7 @@ Since your keystore is gitignored, you have to upload your keystore to the `GENE
 
 9. Set your keystore path in the `Download destination path`.
 
-  ![Screenshot](/img/android-code-signing/file-downloader.png)
+  ![Screenshot](../img/android-code-signing/file-downloader.png)
 
 !!! important "Ensure the same keystore path"
     Ensure that your Bitrise keystore path is the same as your local path relative to your project root. For example, if `keystore.jks`is in your project's root, then your Bitrise keystore path has to be `$BITRISE_SOURCE_DIR/keystore.jks`.

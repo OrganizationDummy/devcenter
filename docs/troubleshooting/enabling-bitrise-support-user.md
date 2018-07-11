@@ -13,7 +13,7 @@ Let's see how to set it up!
         It might take a couple of seconds to work and you might need to **refresh your page** to see the enabled status.
 
 
-    ![Screenshot](/img/troubleshooting/enable-bitrise-support-user.png)
+    ![Screenshot](../img/troubleshooting/enable-bitrise-support-user.png)
 
 3. Ping us through our onsite chat and notify us that you have enabled the Bitrise support user for your app so that we can help you with your issue.
 

@@ -26,7 +26,7 @@ In the dropdown you can set a Step to __always latest__. In this case we'll alwa
 
 _Your settings / provided input values for the Step will be kept for the new version._
 
-![Update steps in Workflow Editor](/img/getting-started/update-steps.png)
+![Update steps in Workflow Editor](../img/getting-started/update-steps.png)
 
 
 ## Remove a step
@@ -38,7 +38,7 @@ Select the step on the left side and click on the **trash can** on the right sid
 If you want to **add a new Step** to the Workflow,
 just click the `+` between the Steps you want the new one to be.
 
-![Add step button in Workflow Editor](/img/getting-started/add-your-first-step.png)
+![Add step button in Workflow Editor](../img/getting-started/add-your-first-step.png)
 
 This will show you a list of available Steps in our __Step Library__.
 You can search and filter these steps if you want to, or just browse through the collection.

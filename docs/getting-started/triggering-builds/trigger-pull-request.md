@@ -12,7 +12,7 @@ By default, every new app you add will have a trigger that triggers a build ever
 
 1. Select the `PULL REQUEST` option.
 
-    ![PR trigger](/img/getting-started/triggering-builds/pull-request-trigger.png)
+    ![PR trigger](../img/getting-started/triggering-builds/pull-request-trigger.png)
 
 1. In the existing trigger, click the `SOURCE BRANCH` and `TARGET BRANCH` options.
 

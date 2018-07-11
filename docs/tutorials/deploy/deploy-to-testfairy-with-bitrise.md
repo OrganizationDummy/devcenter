@@ -13,7 +13,7 @@ To get these insights on iOS you need to [integrate their iOS SDK into your app]
 To deploy your app on the TestFairy platform you just simply need to add the `TestFairy` step
 to your app's workflow (on [bitrise.io](https://www.bitrise.io)).
 
-![Deploy to TestFairy step in a Workflow](/img/tutorials/deploy/testfairy_workflow-editor.png)
+![Deploy to TestFairy step in a Workflow](../img/tutorials/deploy/testfairy_workflow-editor.png)
 
 The only required parameter you have to add is your API Key on TestFairy.
 To get it you should navigate to your [account preferences](https://app.testfairy.com/settings/) on TestFairy

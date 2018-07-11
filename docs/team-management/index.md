@@ -8,22 +8,22 @@ To invite a team member head to the `Team tab` on your application's page. You c
 
 `Owners` and `admins` can change the roles of other members by clicking `Change role` next to the member's name.
 
-![Screenshot](/img/team-management/add-new-member.png)
+![Screenshot](../img/team-management/add-new-member.png)
 
 Check out the different roles and permissions below:
 
 ## Owner
 
-![Screenshot](/img/team-management/owners.png)
+![Screenshot](../img/team-management/owners.png)
 
 ## Admin
 
-![Screenshot](/img/team-management/admins.png)
+![Screenshot](../img/team-management/admins.png)
 
 ## Developer
 
-![Screenshot](/img/team-management/developers.png)
+![Screenshot](../img/team-management/developers.png)
 
 ## Tester / QA
 
-![Screenshot](/img/team-management/testers-qa.png)
+![Screenshot](../img/team-management/testers-qa.png)

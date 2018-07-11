@@ -23,7 +23,7 @@ If for some reason you want to skip the scanner, you can choose
 the **Configure manually without project scanning** option,
 in the **Validation setup** section.
 
-![Configure manually without project scanning](/img/adding-a-new-app/validation_configure_manually.png)
+![Configure manually without project scanning](../img/adding-a-new-app/validation_configure_manually.png)
 
 By choosing this option [bitrise.io](https://www.bitrise.io/) will only
 validate the access to the repository, but it won't run the scanner.

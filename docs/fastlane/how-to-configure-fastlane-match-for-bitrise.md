@@ -12,7 +12,7 @@ in your [bitrise.io](https://www.bitrise.io/) build you only have to do three th
    _Make sure to __disable__ the `Replace variables in input?` option of the environment
    variable, to not to cause issues when the value includes the `$` (dollar) sign, which is used
    for environment variable expansion._
-   ![Screenshot - Fastlane match secret env var setup](/img/tips-and-tricks/fastlane-match-password-secret-env.png)
+   ![Screenshot - Fastlane match secret env var setup](../img/tips-and-tricks/fastlane-match-password-secret-env.png)
 1. Make sure to use `match`'s `readonly` mode, or else `match` will try to connect
    to the Apple Developer Portal, which requires further authorization (providing additional
    username and password for Apple Dev Portal login)!

@@ -14,7 +14,7 @@ If you're all set, proceed to setting up IPA export in your workflow:
 
 1. Set the `Select method for export` input of the step to the type of code signing you want to use.
 
-    ![Select export method for Xcode Archive for iOS](/img/code-signing/ios-code-signing/xcode-archive-export-method.png)
+    ![Select export method for Xcode Archive for iOS](../img/code-signing/ios-code-signing/xcode-archive-export-method.png)
 
     If you use automatic provisioning, make sure it matches the value of the `Distribution type` input of the `iOS Auto Provisioning` step. The options are:
 

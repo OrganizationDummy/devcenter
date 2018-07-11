@@ -13,7 +13,7 @@ In the Workflow Editor you can see a preset list of Steps based on your app we a
 If you want to **add a new Step** to the Workflow,
 just click the `+` sign button between the Steps you want the new one to be.
 
-![Add step button in Workflow Editor](/img/getting-started/add-your-first-step.png)
+![Add step button in Workflow Editor](../img/getting-started/add-your-first-step.png)
 
 This will show you a list of available Steps in our __Step Library__.
 You can search and filter these steps if you want to, or just browse through the collection.

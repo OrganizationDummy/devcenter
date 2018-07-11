@@ -25,7 +25,7 @@ Plus your mobile apps can be targeted to groups of users or distributed to all c
 To deploy your app on Appaloosa, simply add the Appaloosa step to your application's workflow.
 If you don't already have an account on Appaloosa, it will be created on the go.
 
-![Publish to Appaloosa step in a Workflow](/img/tutorials/deploy/appaloosa-step-in-a-bitrise-workflow.png)
+![Publish to Appaloosa step in a Workflow](../img/tutorials/deploy/appaloosa-step-in-a-bitrise-workflow.png)
 
 - As a **registered user** you simply need your *store id* and *API Key*.
 - As an **unregistered user**, an *email address* is enough.

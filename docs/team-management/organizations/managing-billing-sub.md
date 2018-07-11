@@ -13,15 +13,15 @@ You can set up a credit card and we'll bill you automatically; for other payment
     !!! warning "Make sure it's the right profile"
         Be aware that your own billing info and your organization's billing info are __SEPARATE__. You CANNOT change your organization's billing info and subscription plans in the settings of your own personal profile!
 
-    ![Screenshot](/img/team-management/organization/switch-profile-2.png)
+    ![Screenshot](../img/team-management/organization/switch-profile-2.png)
 
 1. On the left, select `Billing` from the menu options.
 
-    ![Screenshot](/img/team-management/organization/billing-sidebar-menu.png)
+    ![Screenshot](../img/team-management/organization/billing-sidebar-menu.png)
 
 1. If you didn't provide your billing information, do so: click `Add credit card` on the right of the `Billing information` menu.
 
-    ![Screenshot](/img/team-management/organization/add-credit-card.png)
+    ![Screenshot](../img/team-management/organization/add-credit-card.png)
 
     !!! note "Manual payment"
         If you do not want to be billed automatically, you do not need to provide a credit card. In this case, contact our support to set up your payment method. This option is available from 5x concurrency on Standard plans or 3x concurrency on Elite plans but only with annual billing.
@@ -41,17 +41,17 @@ Setting up a subscription plan for an organization requires billing information,
     !!! warning "Make sure it's the right profile"
         Be aware that your own billing info and your organization's billing info are __SEPARATE__. You CANNOT change your organization's billing info and subscription plans in the settings of your own personal profile!
 
-    ![Screenshot](/img/team-management/organization/switch-profile-2.png)
+    ![Screenshot](../img/team-management/organization/switch-profile-2.png)
 
 1. On the left, select `Billing` from the menu options.
 
-    ![Screenshot](/img/team-management/organization/billing-sidebar-menu.png)
+    ![Screenshot](../img/team-management/organization/billing-sidebar-menu.png)
 
 1. Choose a subscription plan. You can choose between two Organization plans, billed either monthly or yearly.
 
     - __Standard__: $50 a month per concurrency. Includes multiple owner support, group management and 60+ minutes runtime per build.
     - __Elite__: $100 a month per concurrency. Includes everything in the Standard plan, as well as super fast build machines and 75+ minutes runtime per build.
 
-    ![Screenshot](/img/team-management/organization/subscription-plans.png)
+    ![Screenshot](../img/team-management/organization/subscription-plans.png)
 
     __For more information, check our [pricing](https://www.bitrise.io/pricing)__.

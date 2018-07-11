@@ -2,7 +2,7 @@ The Stack indicates the virtual machine version that we will use to run your bui
 After adding your application to Bitrise we will select an appropriate Stack for it,
 but you can simply change it to a different one on the `Settings` tab of your app.
 
-![Screenshot](/img/infrastructure/stack_selector.png)
+![Screenshot](../img/infrastructure/stack_selector.png)
 
 After selecting the Stack you want to use you'll see a short description of the stack
 with an additional link to learn more about that specific Stack (e.g. to see what

@@ -15,7 +15,7 @@ You can set up and configure the webhooks sent by Bitrise on the web UI. Let's s
 
 1. Click `+ Add webhook`.
 
-    ![Adding outgoing webhook](/img/webhooks/adding-outgoing.jpeg)
+    ![Adding outgoing webhook](../img/webhooks/adding-outgoing.jpeg)
 
 1. Enter the URL of the service where you wish to send the notification in the `URL` field.
 
@@ -36,7 +36,7 @@ You can check if the notifications were successfully sent or not, and you can ch
 
 1. Click an outgoing webhook.
 
-    ![Outgoing webhook](/img/webhooks/outgoing-webhook.jpeg)
+    ![Outgoing webhook](../img/webhooks/outgoing-webhook.jpeg)
 
 1. Select the `REQUEST` tab to see and, if you wish, modify the payload that was sent to the specified URL.
 
@@ -58,4 +58,4 @@ You can check if the notifications were successfully sent or not, and you can ch
 
 1. You can redeliver any delivery. Open the delivery you need and click `Redeliver`.
 
-    ![Redeliver](/img/webhooks/redeliver-payload.jpeg)
+    ![Redeliver](../img/webhooks/redeliver-payload.jpeg)

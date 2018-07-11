@@ -8,7 +8,7 @@ on [visualstudio.com 's documentations site](https://www.visualstudio.com/en-us/
 
 1. Navigate to the `Code` tab of your app's page and select `Visual Studio Online / Visual Studio Team Services` from the dropdown menu of the `Incoming Webhooks` section.
 
-    ![Screenshot](/img/webhooks/bitrise-visual-webhook.png)
+    ![Screenshot](../img/webhooks/bitrise-visual-webhook.png)
 
 1. Copy the webhook URL for the selected service.
 
@@ -18,25 +18,25 @@ on [visualstudio.com 's documentations site](https://www.visualstudio.com/en-us/
 1. Go to the *Admin/Control panel* of the *project*.
 1. Select `Service Hooks`.
 
-    ![Screenshot](/img/webhooks/visual-studio-service-hooks.png)
+    ![Screenshot](../img/webhooks/visual-studio-service-hooks.png)
 
 1. Click `Create subscription`.
 1. Create a service integration:
 
     * In the Service list select the `Web Hooks` option.
 
-        ![Screenshot](/img/webhooks/visual-studio-new-service.png)
+        ![Screenshot](../img/webhooks/visual-studio-new-service.png)
 
     * Select the `Code pushed` event as the *Trigger*.
 
-        ![Screenshot](/img/webhooks/visual-studio-code-pushed.png)
+        ![Screenshot](../img/webhooks/visual-studio-code-pushed.png)
 
     * In the `Filters` section select the `Repository` you want to integrate.
     * You can leave the other filters on default.
     * Click `Next`.
     * On the `Action` setup form enter the `bitrise-webhooks` URL (`.../h/visualstudio/BITRISE-APP-SLUG/BITRISE-APP-API-TOKEN`) in the `URL` field. You can leave every other option on default.
 
-        ![Screenshot](/img/webhooks/visual-studio-webhook-url.png)
+        ![Screenshot](../img/webhooks/visual-studio-webhook-url.png)
 
 1. Click `Finish`
 

@@ -30,7 +30,7 @@ is your Xcode project settings.
 * When you share your scheme the Xcode project changes. Don't forget to **commit** and to **push** your changes!
 * If the related validation is still running on Bitrise abort it and try to run it again.
 
-![Xcode shared scheme](/img/ios/xcode-shared-scheme.png)
+![Xcode shared scheme](../img/ios/xcode-shared-scheme.png)
 
 **Don't forget to commit & push the changes** if you just enabled the Shared option!
 This change should be reflected in your `git` repository,
@@ -272,7 +272,7 @@ like this one: [https://github.com/CocoaPods/CocoaPods/issues/3063](https://gith
 If you try to install an Enterprise distribution signed app you might get a
 popup when you try to run the app the first time, with the title **Untrusted Enterprise Developer**.
 
-![iOS Untrusted Enterprise Developer popup](/img/ios/ios-untrusted-enterprise-developer.png)
+![iOS Untrusted Enterprise Developer popup](../img/ios/ios-untrusted-enterprise-developer.png)
 
 Starting with iOS 9 there's no option to "Trust" the developer right from the popup.
 

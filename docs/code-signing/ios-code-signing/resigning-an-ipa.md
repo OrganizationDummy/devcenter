@@ -14,12 +14,12 @@ If all your code signing files are in place, proceed to setting up your workflow
 
 1. In the list of input variables, navigate to `Select method for export` and select `development` from the dropdown menu.
 
-    ![Select export method for Xcode Archive for iOS](/img/code-signing/ios-code-signing/xcode-archive-export-method.png)
+    ![Select export method for Xcode Archive for iOS](../img/code-signing/ios-code-signing/xcode-archive-export-method.png)
 
 1. Add the `Export iOS and tvOS Xcode archive` step to your workflow.
 
 1. In the list of input variables, navigate to `Select method for export` and select `app-store` from the dropdown menu.
 
-    ![Export method input variable](/img/code-signing/ios-code-signing/export-ios-step-for-resigning.png)
+    ![Export method input variable](../img/code-signing/ios-code-signing/export-ios-step-for-resigning.png)
 
 And you're done! Feel free to add multiple `Export iOS and tvOS Xcode archive` steps to your workflow to create multiple different signed .ipa files if necessary.

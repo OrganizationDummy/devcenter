@@ -4,7 +4,7 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Navigate to the `Code` tab of your app's page and select `Assembla` from the dropdown menu of the `Incoming Webhooks` section.
 
-    ![Screenshot](/img/webhooks/bitrise-assembla-webhook.png)
+    ![Screenshot](../img/webhooks/bitrise-assembla-webhook.png)
 
 1. Copy the webhook URL for the selected service.
 

@@ -4,7 +4,7 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Navigate to the `Code` tab of your app's page and select `Gogs` from the dropdown menu of the `Incoming Webhooks` section.
 
-    ![Screenshot](/img/webhooks/bitrise-gogs-webhook.png)
+    ![Screenshot](../img/webhooks/bitrise-gogs-webhook.png)
 
 1. Copy the webhook URL for the selected service.
 
@@ -16,11 +16,11 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Select `Webhooks`, `Add Webhook`, then `Gogs`.
 
-    ![Screenshot](/img/webhooks/gogs-webhook-select.png)
+    ![Screenshot](../img/webhooks/gogs-webhook-select.png)
 
 1. Specify the `bitrise-webhooks` URL (`.../h/gogs/BITRISE-APP-SLUG/BITRISE-APP-API-TOKEN`) in the `Payload URL` field.
 
-    ![Screenshot](/img/webhooks/add-webhook-gogs.png)
+    ![Screenshot](../img/webhooks/add-webhook-gogs.png)
 
 1. Set the `Content Type` to `application/json`.
 
@@ -28,7 +28,7 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Set the trigger to be fired on `Just the push event`.
 
-    ![Screenshot](/img/webhooks/gogs-webhook-triggered.png)
+    ![Screenshot](../img/webhooks/gogs-webhook-triggered.png)
 
 1. Click `Add Webhook`.
 

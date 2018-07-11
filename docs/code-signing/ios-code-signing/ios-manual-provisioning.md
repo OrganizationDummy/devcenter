@@ -14,7 +14,7 @@ If you collected all the necessary files with the codesigndoc tool, proceed to u
 
 1. Make sure that the Provisioning Profile files and the .p12 files are uploaded. If not, add them in the `Add Provisioning Profile(s)` and the `Add the private key (.p12) for signing` fields, respectively.
 
-    ![Uploading certificates and Provisioning Profiles](/img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
+    ![Uploading certificates and Provisioning Profiles](../img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
 
     !!! info "Provisioning Profile file extensions"
         For a MacOS project, the Provisioning Profile file extension is `.provisionprofile`; for an iOS project, the file extension is `.mobileprovision`.
@@ -23,7 +23,7 @@ If you collected all the necessary files with the codesigndoc tool, proceed to u
 
     Please note that these steps must be __BEFORE__ the steps that archive and export your project (for example, `Xcode Archive & Export for iOS`) in your workflow.
 
-    ![Certificate and profile installer step in your workflow](/img/code-signing/ios-code-signing/workflow-with-cert-prof-inst.png)
+    ![Certificate and profile installer step in your workflow](../img/code-signing/ios-code-signing/workflow-with-cert-prof-inst.png)
 
 !!! tip "Troubleshooting: missing Distribution signing files"
     If `codesigndoc` does not pick up one or more distribution .p12 files and/or Provisioning Profile(s),

@@ -11,13 +11,13 @@ Follow the steps to see how you can set it up for your next build!
 
   4. In the `Build configuration` pop-up window, toggle the switch to the right to enable `Schedule this build` feature.
 
-    ![Screenshot](/img/scheduling-builds/disabled-build-scheduling.png)
+    ![Screenshot](../img/scheduling-builds/disabled-build-scheduling.png)
 
   5. Set the hour and minute in the `HH/MM` field.
 
   6. On the timeline, click on the day(s) when you want your build to run.
 
-    ![Screenshot](/img/scheduling-builds/selected-builds.png)
+    ![Screenshot](../img/scheduling-builds/selected-builds.png)
 
   7. Check and fill out the rest of the input fields if necessary. You can schedule your build in the advanced version of the `Build configuration` window too.
 
@@ -28,7 +28,7 @@ Follow the steps to see how you can set it up for your next build!
 
  If you click on `Show scheduled`, you can edit/delete your schedules, disable build scheduling by toggling the switch to the left, or immediately trigger the build by clicking on the `Trigger now` button.
 
-  ![Screenshot](/img/scheduling-builds/scheduled-build.png)
+  ![Screenshot](../img/scheduling-builds/scheduled-build.png)
 
 
 That's it! Now you can enjoy the comfort of your automated build!

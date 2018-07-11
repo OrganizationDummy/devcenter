@@ -11,7 +11,7 @@ Bitrise supports both manual and automatic provisioning for Ionic and Cordova ap
 
     You can do this either on the website UI or with the `codesigndoc` tool itself.
 
-    ![Screenshot](/img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
+    ![Screenshot](../img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
 
 1. Make sure you have the `Certificate and profile installer` step in your workflow.
 
@@ -19,7 +19,7 @@ Bitrise supports both manual and automatic provisioning for Ionic and Cordova ap
 
 1. Fill in the required input for the step. Please note that both the `Code Signing Identity` and the `Provisioning Profile` are required inputs for iOS apps even though they are not marked as such.
 
-    ![Screenshot](/img/code-signing/ios-code-signing/cordova-config-inputs.png)
+    ![Screenshot](../img/code-signing/ios-code-signing/cordova-config-inputs.png)
 
     - `Build configuration`: you can set it to either `debug` or `release`.
     - `Code Sign Identity`: enter a Developer or a Distribution identity.
@@ -95,7 +95,7 @@ Bitrise supports both manual and automatic provisioning for Ionic and Cordova ap
     - The `Platform` input needs to be set to: `device`.
     - The `Build command configuration` input must match the `Build configuration` input of the `Generate cordova build configuration` step.
 
-    ![Screenshot](/img/code-signing/ios-code-signing/cordova-archive-step.png)
+    ![Screenshot](../img/code-signing/ios-code-signing/cordova-archive-step.png)
 
 1. Set the `Should remove platforms as prepare step?` to `false`. This is crucial: it ensures the step will not remove and re-add the platform of the native projects generated in the `Cordova prepare` or the `Ionic prepare` step.
 

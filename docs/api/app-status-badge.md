@@ -2,7 +2,7 @@ With the `Status Image API token`, you can get an embeddable SVG badge image, a 
 
 1. Open your App on [bitrise.io](https://www.bitrise.io) and click the badge image right next to the app's name.
 
-    ![Printscreen](/img/api/status-image-api-token.jpg)
+    ![Printscreen](../img/api/status-image-api-token.jpg)
 
 2. In the `Status image` popup, you can optionally set a branch, and get copy-paste-ready `Embed` codes for the SVG image.  
 

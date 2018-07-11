@@ -10,13 +10,13 @@ All you need is a [bitrise.io](https://www.bitrise.io) account and a valid Apple
 
 2. Click on your profile in the upper-right corner of your `Dashboard` and select `Account settings` from the dropdown menu.
 
-    ![Account settings menu](/img/adding-a-new-app/account-settings.png)
+    ![Account settings menu](../img/adding-a-new-app/account-settings.png)
 
 3. On the menu bar on the left, select `Apple Developer Account`.
 
 4. Provide your credentials in the popup window and click `Store credentials`.
 
-    ![Connecting Apple Developer account](/img/adding-a-new-app/apple-dev-acc-sync.png)
+    ![Connecting Apple Developer account](../img/adding-a-new-app/apple-dev-acc-sync.png)
 
 5. If two-factor authentication is enabled on your Apple Developer account, you will be prompted to provide your verification code. In this case, your authentication will expire in 30 days - Bitrise will prompt you before that happens!
 

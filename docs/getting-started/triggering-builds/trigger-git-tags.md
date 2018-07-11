@@ -13,7 +13,7 @@ Note that this requires an incoming webhook set up with the hosting service of y
 
 1. Select the `TAG` option.
 
-    ![Tag trigger](/img/getting-started/triggering-builds/tag-trigger.png)
+    ![Tag trigger](../img/getting-started/triggering-builds/tag-trigger.png)
 
 1. Click `+ ADD TRIGGER`.
 

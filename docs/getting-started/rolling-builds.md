@@ -18,7 +18,7 @@ You can also set which types of triggered builds you wish to abort. Let's see ho
 
 1. Scroll down to the `ENABLE ROLLING BUILDS` option and toggle it.
 
-    ![Rolling Builds](/img/getting-started/rolling-builds.png)
+    ![Rolling Builds](../img/getting-started/rolling-builds.png)
 
 1. Select the type(s) of builds you wish to abort when a new build is started.
 

@@ -4,7 +4,7 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Navigate to the `Code` tab of your app's page and select `GitLab` from the dropdown menu of the `Incoming Webhooks` section.
 
-    ![Screenshot](/img/webhooks/bitrise-gitlab-webhook.png)
+    ![Screenshot](../img/webhooks/bitrise-gitlab-webhook.png)
 
 1. Copy the webhook URL for the selected service.
 
@@ -16,11 +16,11 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
 
 1. Select `Integrations`.
 
-    ![Screenshot](/img/webhooks/integrations-gitlab.png)
+    ![Screenshot](../img/webhooks/integrations-gitlab.png)
 
 1. Enter the bitrise-webhooks URL in the URL field.
 
-    ![Screenshot](/img/webhooks/gitlab-webhook-url.png)
+    ![Screenshot](../img/webhooks/gitlab-webhook-url.png)
 
 1. In the `Trigger` section select:
 
@@ -28,7 +28,7 @@ You can set up webhooks so that Bitrise automatically triggers a build of your a
     - `Tag push events`
     - `Merge request events`
 
-    ![Screenshot](/img/webhooks/gitlab-webhook-events.png)
+    ![Screenshot](../img/webhooks/gitlab-webhook-events.png)
 
 1. Click `Add webhook`.
 

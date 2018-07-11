@@ -12,7 +12,7 @@ By default, every new app you add will have a trigger that triggers a build ever
 
 1. Select the `PUSH` option.
 
-    ![Push trigger](/img/getting-started/triggering-builds/push-trigger.png)
+    ![Push trigger](../img/getting-started/triggering-builds/push-trigger.png)
 
 1. In the existing trigger, click the `Push branch` option.
 

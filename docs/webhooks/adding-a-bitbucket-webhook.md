@@ -11,7 +11,7 @@ trigger a build on Bitrise with the code you push to your repository.
 
 1. Navigate to the `Code` tab of your app's page and select `Bitbucket` from the dropdown at the webhooks section.
 
-    ![Screenshot](/img/webhooks/webhooks_bitbucket.png)
+    ![Screenshot](../img/webhooks/webhooks_bitbucket.png)
 
 1. Copy the webhook URL for the selected service.
 
@@ -19,24 +19,24 @@ trigger a build on Bitrise with the code you push to your repository.
 
 1. Navigate to your Bitbucket repository and select `Settings`.
 
-    ![Screenshot](/img/webhooks/bitbucket_settings.png)
+    ![Screenshot](../img/webhooks/bitbucket_settings.png)
 
 1. Select `Webhooks` from the left.
 
-    ![Screenshot](/img/webhooks/bitbucket_settings_webhooks.png)
+    ![Screenshot](../img/webhooks/bitbucket_settings_webhooks.png)
 
 1. Select `Add Webhook`
 
-    ![Screenshot](/img/webhooks/bitbucket_add_webhooks.png)
+    ![Screenshot](../img/webhooks/bitbucket_add_webhooks.png)
 
 1. Paste the Bitbucket Webhook URL from Bitrise to the `URL` and add a `Title`.
 
-    ![Screenshot](/img/webhooks/bitbucket_webhook_info.png)
+    ![Screenshot](../img/webhooks/bitbucket_webhook_info.png)
 
 1. Select `Choose from a full list of triggers`.
 
-    ![Screenshot](/img/webhooks/bitbucket_webhook_trigger.png)
+    ![Screenshot](../img/webhooks/bitbucket_webhook_trigger.png)
 
 1. Select Repository `Push` and Pull Request `Created` and `Updated` triggers. After you are ready press the `Save` button and you are ready to roll!
 
-    ![Screenshot](/img/webhooks/bitbucket_webhook_push_and_pr.png)
+    ![Screenshot](../img/webhooks/bitbucket_webhook_push_and_pr.png)

@@ -28,7 +28,7 @@ Once you are ready, proceed to uploading your files and setting up your workflow
 
 1. Make sure you have the .p12 certificate files uploaded. If not, add the .p12 files in the `Add the private key (.p12) for signing` field.
 
-    ![Uploading certificates and Provisioning Profiles](/img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
+    ![Uploading certificates and Provisioning Profiles](../img/code-signing/ios-code-signing/provisioning-and-certificate-upload.png)
 
     !!! info "Provisioning Profile file extensions"
         For a MacOS project, the Provisioning Profile file extension is `.provisionprofile`; for an iOS project, the file extension is `.mobileprovision`.
@@ -39,7 +39,7 @@ Once you are ready, proceed to uploading your files and setting up your workflow
 
     Please note that this step must come __AFTER__ any dependency installer step in your workflow, such as `Run CocoaPods install` or `Carthage`. Make sure that you do __NOT__ modify your Xcode project between the `iOS Auto Provision` and the `Xcode Archive & Export for iOS` steps. For example, do not change the bundle ID after the `iOS Auto Provision` step.
 
-    ![iOS Auto Provisioning in your workflow](/img/code-signing/ios-code-signing/workflow-with-auto-prov.png)  
+    ![iOS Auto Provisioning in your workflow](../img/code-signing/ios-code-signing/workflow-with-auto-prov.png)  
 
 1. Fill the required inputs of the step.
     * `The Developer Portal team id` - find this on the [Membership Details page of your Apple Developer Portal account](https://developer.apple.com/account/#/membership)

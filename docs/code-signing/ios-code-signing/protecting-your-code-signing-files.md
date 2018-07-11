@@ -10,7 +10,7 @@ You can set your code signing files to `Protected` mode: this means they cannot 
 
 1. Locate the file you wish to make protected and open the dropdown menu.
 
-    ![Make code signing files protected](/img/code-signing/ios-code-signing/provisioning-and-certificate-protect.png)
+    ![Make code signing files protected](../img/code-signing/ios-code-signing/provisioning-and-certificate-protect.png)
 
 1. Select the `Make protected` option.
 

@@ -19,6 +19,6 @@ You may want to use this setting if:
 
 3. Find the `ENABLE SELECTIVE BUILDS` option and toggle the switch on the right.
 
-    ![Selective Builds](/img/getting-started/selective-builds.png)
+    ![Selective Builds](../img/getting-started/selective-builds.png)
 
 4. Add filenames and file paths in the `ADD FILENAME/PATH` window. You can add multiple files or file paths here. A build will be triggered only if these files are changed.
